@@ -31,14 +31,7 @@ perfessional practice:参加比赛情况
 prefessional skills display:专业技能展示
 -
 展示一下三年学习期间的项目和学习的内容：
-
-![image](https://github.com/moshao0912/moshao0912/assets/143790324/c04c73c6-1bf3-4ef7-af48-ac7a1c4e328e)
-php实现的电子商城项目：
-![image](https://github.com/moshao0912/moshao0912/assets/143790324/8c52276e-f0ef-4c05-b95f-fca9781b9868)
-
-数据的获取检索，大数据处理的基本流程等项目：
-![image](https://github.com/moshao0912/moshao0912/assets/143790324/4203610e-9d6b-4cd6-9eb8-c3a6d9511ba1)
-![image](https://github.com/moshao0912/moshao0912/assets/143790324/b3f1e73d-c0a3-411a-8af0-2e22c51633cc)
+物流信息中台系统https://github.com/Yang-yangg/Yang-yangg/blob/main/%E4%B8%AD%E5%8F%B0.rar
 
 professional blogs:专业博客
 -
