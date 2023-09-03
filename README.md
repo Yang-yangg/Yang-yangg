@@ -22,6 +22,7 @@ study information:学业信息
 - 
 - 熟练掌握C++、java
 - 希望能够从事软件测试或前端开发
+- 四级已过
 
 perfessional practice:参加比赛情况
 -
